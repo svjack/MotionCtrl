@@ -3,6 +3,7 @@
 </p>
 <div align="center">
 
+## Deno (https://huggingface.co/spaces/svjack/MotionCtrl_SVD)
 ## MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
 
 #### [SIGGRAPH 2024 CONFERENCE PROCEEDINGS]
